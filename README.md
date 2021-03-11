@@ -9,4 +9,5 @@ This repository contains calculator methods along with their tests. It also incl
 ![image](https://user-images.githubusercontent.com/33040997/110824768-34cc6a00-8248-11eb-9374-d1dad97a45f0.png)
 
 ![image](https://user-images.githubusercontent.com/33040997/110827744-39465200-824b-11eb-9d50-62ab1552e8ab.png)
+^Pipeline running continuous integration on the new commit
 
